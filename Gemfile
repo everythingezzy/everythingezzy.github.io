@@ -17,3 +17,6 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 gem "sass"
 gem "bourbon"
 gem "neat"
+
+#Push to GitHub Pages
+gem 'middleman-gh-pages'
